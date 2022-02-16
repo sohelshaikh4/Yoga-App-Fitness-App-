@@ -7,12 +7,12 @@
         <deviceKey>
           <Key>
             <type value="VIRTUAL_DEVICE_PATH" />
-            <value value="C:\Users\New\.android\avd\Seenu_A50.avd" />
+            <value value="C:\Users\New\.android\avd\samsung.avd" />
           </Key>
         </deviceKey>
       </Target>
     </targetSelectedWithDropDown>
-    <timeTargetWasSelectedWithDropDown value="2022-02-13T09:45:03.950586500Z" />
+    <timeTargetWasSelectedWithDropDown value="2022-02-15T10:21:34.566395100Z" />
     <targetsSelectedWithDialog>
       <Target>
         <type value="QUICK_BOOT_TARGET" />
